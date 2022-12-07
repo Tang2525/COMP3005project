@@ -5,3 +5,7 @@ Members:
 * Juelz Rejano
 * Nicolas Tang
 * Eve
+
+## Instructions
+
+
