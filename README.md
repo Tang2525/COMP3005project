@@ -3,7 +3,7 @@
 
 Members: 
 * Juelz Rejano
-* Nicolas Tang
+* Nicholas Tang
 * Eve
 
 ## Instructions
