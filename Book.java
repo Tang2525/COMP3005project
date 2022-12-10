@@ -1,8 +1,19 @@
 public class Book {
-    private String title;
-    private int ISBN;
-    private int pages;
-    private float price;
-    private String genre;
-    private String author;
+    String title;
+    int ISBN;
+    int pages;
+    float price;
+    String genre;
+    String author;
+
+    public Book(String t, int code, int numPage, float cost, String g, String auth){
+        this.title = t;
+        this.ISBN = code;
+        this.pages = numPage;
+        this.price = cost;
+        this.genre = g;
+        this.author = auth;
+    }
 }
+
+

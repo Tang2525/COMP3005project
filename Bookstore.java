@@ -1,8 +1,13 @@
+import java.util.ArrayList;
+
 public class Bookstore{
-	String bookName;
-	String authorName;
+	ArrayList<Book> inventory;
 	int ISBN;
-	String genre;
-	String categories;
-	int trackingNum;
+	String[] genres;
+	String[] categories;
+	String[] authors;
+	int[] orders;
+
+	public
 }
+
